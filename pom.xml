@@ -7,7 +7,6 @@
 	<groupId>com.user.mngmnt</groupId>
 	<artifactId>user.management.system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 
 	<name>user.management.system</name>
 	<description>User Management System - Create, update, delete</description>
